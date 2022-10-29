@@ -1,0 +1,14 @@
+name: segmentationAnalysisApp
+title: segmentationAnalysisApp
+username:
+account: akinwandeayomide
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7461498
+bundleId: 6454970
+url: https://akinwandeayomide.shinyapps.io/segmentationAnalysisApp/
+when: 1667084581.8908
+lastSyncTime: 1667084581.89083
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md|README.Rmd
